@@ -1,0 +1,123 @@
+p {
+    text-align: justify;
+    text-decoration: ;
+}
+
+a {
+    text-decoration: none;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.biryani {
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: burlywood;
+}
+
+.karai {
+    text-align: center;
+    text-transform: capitalize transform:;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: moccasin;
+    text-transform: capitalize;
+}
+
+@font-face {
+    font-family: sufi;
+    src: url(./Lemon/Lemon-Regular.ttf);
+}
+
+.pulao {
+    text-align: center;
+    text-transform: capitalize;
+    background-color: bisque(255, 0, 212);
+    font-family: sufi;
+}
+
+@font-face {
+    font-family: paki;
+    src: url(./Lobster/Lobster-Regular.ttf);
+}
+
+.tikka {
+    font-family: paki;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: darkseagreen;
+}
+
+@font-face {
+    font-family: kar;
+    src: url(./Kalnia/Kalnia-VariableFont_wdth\,wght.ttf);
+}
+
+.boty {
+    text-align: center;
+    font-family: kar;
+    text-transform: capitalize;
+    background-color: honeydew;
+
+}
+
+.kabab {
+    background-color: khaki;
+    text-align: center;
+   text-transform: capitalize;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+@font-face {
+    font-family: FM;
+    src: url(./Black_Ops_One/BlackOpsOne-Regular.ttf);
+}
+.form {
+    background-color: rgb(167, 189, 165);font-family: fm;text-align: center;text-transform: capitalize;
+}
+
+@font-face {
+    font-family: far;
+    src: url(./Luckiest_Guy/LuckiestGuy-Regular.ttf);
+}
+.index{text-align: center;text-transform: capitalize;font-family: far;
+
+}
+.hm,.hi{
+    letter-spacing: 10px;word-spacing: 20px;text-shadow:5px 5px 5px yellowgreen;
+    
+}
+.ca{
+    text-shadow: 4px 4px 5px rgb(255, 242, 0);
+}
+.bh{
+    text-shadow: 4px 4px 5px rgb(255, 166, 0)
+}
+.ba, .bt ,.pu{
+    text-shadow: 4px 4px 5px rebeccapurple;
+}
+.bo{
+    text-shadow:  4px 4px 4px rgb(55, 144, 144) ;
+}
+.pa{
+    text-shadow:  4px 4px 4px rgb(55, 144, 144);
+}
+.pt{
+    text-shadow:  4px 4px 4px #8d9037;
+}
+.la{
+    text-shadow:  4px 4px 4px rgb(68, 144, 55);
+}
+textarea, input:focus {
+    background-color: beige;
+}
+textarea,input:hover{
+  border: rgb(30, 210, 162);
+}
+button:active{
+    background-color: rgb(0, 0, 0);
+}
+.ac{
+    text-shadow:2px 2px 4px #3e3790 ;
+}
